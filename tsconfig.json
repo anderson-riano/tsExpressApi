@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "ES6",                        // Versión de JavaScript a la que se compila
+      "module": "commonjs",                   // Módulo común usado en Node.js
+      "rootDir": "src",                       // Directorio raíz de TypeScript
+      "outDir": "dist",                       // Carpeta de salida para los archivos compilados
+      "strict": true,                         // Habilita todas las verificaciones estrictas
+      "esModuleInterop": true,                // Permite la interoperabilidad con ES6
+      "skipLibCheck": true,                   // Omite la verificación de tipos en archivos de declaración
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src"],                       // Incluye los archivos de TypeScript en `src`
+    "exclude": ["node_modules"]              // Excluye la carpeta `node_modules`
+  }
+  
