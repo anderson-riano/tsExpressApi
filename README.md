@@ -1,6 +1,6 @@
 # Proyecto Express con TypeScript
 
-Este proyecto está basado en Express con TypeScript y expone una serie de APIs para interactuar con los datos de usuarios y tareas.
+Este proyecto está basado en Express con TypeScript y expone una serie de APIs para interactuar con los datos de usuarios y tareas en MongoDB
 
 ## Requisitos
 
@@ -8,6 +8,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes pro
 
 - Node.js (versión 14 o superior)
 - npm (gestor de paquetes de Node.js)
+- MongoBD
 
 ## Instalación
 
